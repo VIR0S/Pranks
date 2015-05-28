@@ -1,0 +1,2 @@
+https://msdn.microsoft.com/en-us/library/8c6yea83(v=vs.84).aspx
+^ % {DEL}

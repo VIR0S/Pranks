@@ -1,0 +1,12 @@
+Kill explorer
+taskkill /f /im explorer.exe
+
+Begin/End Task Set
+:task
+:end task
+
+Timeout
+timeout /t 1
+
+Invisible
+pause>nul
